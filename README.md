@@ -1,6 +1,7 @@
 # WebTech
-Associated with the USC course CSCI 571 Fall 2024
-All assignment pages can be found through the link: https://hyperburn777.github.io/eqyr0.html
+Associated with the USC course CSCI 571 Fall 2024 <br>
+All assignment pages can be found through the link: https://hyperburn777.github.io/eqyr0.html <br>
+Please request the source code for the associated projects at rahulpuranam@gmail.com <br>
 
 Assignment 1: Static Business Webpage
 - Created a static webpage using HTML5 and CSS to simulate a subscription-based business site
