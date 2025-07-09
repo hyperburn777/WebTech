@@ -21,4 +21,4 @@ Assignment 3: Enhanced Weather Application with Real-Time Features
 
 Assignment 4: Cloud API Demo
 - Direct link to the Tomorrow.io API for weather data retrieval (demonstration of API usage)
-- Used for development of Android app version fo the Weather Application from Assignment 3
+- Used for development of Android app version of the Weather Application from Assignment 3
