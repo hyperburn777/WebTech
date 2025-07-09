@@ -13,8 +13,12 @@ Assignment 2: Weather Application with API Integration
 - Visualized 5-day weather forecasts using HighCharts
 - Hosted the application on Google Cloud Platform (GCP) for cloud-based deployment
   
-Assignment 3: Enhanced Weather Application with Real-Time Features (In Progress)
+Assignment 3: Enhanced Weather Application with Real-Time Features
 - Implemented AJAX and JSON for real-time weather searches and dynamic input validation
 - Added features for real-time error handling, displaying progress indicators, and managing a favorites list for cities
 - Enhanced the UI with Bootstrap, Angular, and HTML5, adding multiple views including "Day View," "Daily Temp. Chart," and "Meteogram"
 - Integrated a Twitter share button for users to post weather details directly from the app
+
+Assignment 4: Enhanced Weather Application with Real-Time Features
+- Direct link to the Tomorrow.io API for weather data retrieval (demonstration of API usage)
+- Used for development of Android app version fo the Weather Application from Assignment 3
